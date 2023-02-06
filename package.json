@@ -1,0 +1,22 @@
+{
+  "name": "dymo-library",
+  "version": "1.0.0",
+  "description": "Tool for checking is Dymo printer available and setting custom label values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patak17/dymo-library.git"
+  },
+  "keywords": [
+    "dymo"
+  ],
+  "author": "Milan Dukic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patak17/dymo-library/issues"
+  },
+  "homepage": "https://github.com/patak17/dymo-library#readme"
+}
